@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Victor Lustoza
 
 - 👨🏻‍💻 Atualmente trabalho como QA
-- 🐱‍💻 Estou estudando Automação de Testes Web e Mobile
+- 🐱‍💻 Estou constantemente estudando
 - 😄 Pronomes: Ele/Dele
 
 ##
