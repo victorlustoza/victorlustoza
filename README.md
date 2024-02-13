@@ -18,7 +18,7 @@
     <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Victor-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg">
-    <img align="center" alt="Victor-Cypress" height="30" width="30" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" />
+    <img align="center" alt="Victor-Cypress" height="30" width="30" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" style="border-radius: 5px;/>
     <img align="center" alt="Victor-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 </div>
 
