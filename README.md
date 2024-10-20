@@ -6,19 +6,19 @@
     <a href="victorlustoza"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
-<h1>Olá, Pessoal</h1> 
-<h5> Meu nome é Victor, sou tecnólogo em Análise e Desenvolvimento de Sistemas, atualmente trabalho como QA Engineer.
-Sou apaixonado por garantir a excelência em cada etapa do ciclo de vida do desenvolvimento de software, minhas principais habilidades incluem:</h5> 
+<h1> Hi there, i'm Victor 👋 </h1> 
+<h5> I am a technologist in Systems Analysis and Development, currently working as QA Engineer.
+I am passionate about ensuring excellence at every stage of the software development lifecycle, my core skills include:</h5> 
 
-<h5> 📝 Criação de Cenários: Como especialista em QA, tenho expertise na elaboração de cenários. Essa habilidade não apenas simplifica a documentação de testes, mas também facilita a comunicação entre os membros da equipe, garantindo uma compreensão clara e concisa dos requisitos.</h5> 
+<h5> 📝 Scenario Creation: As a QA specialist, I have expertise in the development of scenarios and test cases. This skill is important for testing documentation and product requirement coverage, ensuring delivery of what is expected, as well as exploratory validations for potential improvements. </h5> 
 
-<h5> 🖐️ Testes Manuais: Como parte do meu papel como QA Engineer, também realizo testes manuais abrangentes, tanto na camada de APIs quanto em E2E. </h5> 
+<h5> 🖐️ Manual Testing: As part of my role as QA Engineer, I also conduct comprehensive manual tests, both in the APIs layer and in E2E. </h5> 
 
-<h5> 🤖 Automação Eficiente: Desenvolvo scripts robustos e eficientes para testes automatizados utilizando Cypress, proporcionando confiabilidade e rapidez na verificação da qualidade do software.</h5> 
+<h5> 🤖 Efficient Automation: I develop robust and efficient scripts for automated tests using Cypress, providing reliability and speed in checking the quality of the software. </h5> 
 
-<h5> 🚀 Performance em Foco: Conduzo testes de performance de ponta a ponta com K6, garantindo que as aplicações atendam às expectativas de desempenho mesmo nas condições mais desafiadoras.</h5> 
+<h5> 🚀 Performance in Focus: I conduct performance testing with Apache Jmeter, ensuring that applications meet performance expectations even in the most challenging conditions. </h5> 
 
-<h3>Tecnologias e ferramentas</h3>
+<h3> 👨🏻‍💻 technologies and tools </h3>
 
 ##
 <div>
